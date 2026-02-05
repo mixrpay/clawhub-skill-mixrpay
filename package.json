@@ -1,0 +1,30 @@
+{
+  "name": "@mixrpay/clawhub-skill",
+  "version": "2.1.0",
+  "description": "MixrPay ClawHub skill - Budget-controlled payments for AI agents",
+  "keywords": [
+    "mixrpay",
+    "clawhub",
+    "agent",
+    "payments",
+    "budget",
+    "llm",
+    "mcp"
+  ],
+  "author": "MixrPay <support@mixrpay.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mixrpay/clawhub-skill-mixrpay"
+  },
+  "homepage": "https://mixrpay.com",
+  "bugs": {
+    "url": "https://github.com/mixrpay/clawhub-skill-mixrpay/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@mixrpay/agent-sdk": "^0.8.4"
+  }
+}
