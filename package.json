@@ -25,6 +25,6 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@mixrpay/agent-sdk": "^0.8.5"
+    "@mixrpay/agent-sdk": "^0.8.4"
   }
 }
