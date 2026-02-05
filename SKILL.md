@@ -5,7 +5,7 @@ license: MIT
 metadata:
   author: mixrpay
   version: "2.1.0"
-  sdk_version: "0.8.4"
+  sdk_version: "0.8.5"
   repository: https://github.com/mixrpay/clawhub-skill-mixrpay
 compatibility: Requires node>=18. Set MIXRPAY_SESSION_KEY env var.
 ---
